@@ -1,7 +1,11 @@
 # LoRA ToF sensor
 This is an example for using MKR WAN 1300 with the ToF sensor VL53L0X and sending the values through LoRa to TTN.
 
-## Wiring:
+## Links
+### ![MKR WAN 1300](https://store.arduino.cc/mkr-wan-1300)
+### ![VL53L0X](https://www.st.com/en/evaluation-tools/53l0-satel-i1.html)
+
+## Wiring
 | MKR WAN 1300 | VL53L0X |
 |----------------|-------|
 | VCC | VDD   (5) |
@@ -10,13 +14,16 @@ This is an example for using MKR WAN 1300 with the ToF sensor VL53L0X and sendin
 | SCL | SCL_I (2) |
 
 ### ![VL53L0X pinout](https://cei-lab.github.io/ece3400/tutorials/sensors/images/Pinout.svg)
+![https://cei-lab.github.io/ece3400/tutorials/sensors/images/Pinout.svg](https://cei-lab.github.io/ece3400/tutorials/sensors/images/Pinout.svg)
 
 ## Variables
 ### appEui      - this is where you paste your APP EUI 
 ### appKey      - this is where you paste your APP KEY
 ### delay_value - this is on default 30 second, but you can change it to have it send more frequently
 
-#### License
+---
+
+### License
 
 All our projects are as usefully open-source as possible.
 

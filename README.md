@@ -2,7 +2,7 @@
 This is an example for using MKR WAN 1300 with the ToF sensor VL53L0X and sending the values through LoRa to TTN.
 
 ## Wiring:
-###MKR WAN 1300		VL53L0X
+### MKR WAN 1300		VL53L0X
 VCC			VDD   (5)
 GND			GND   (6)
 SDA			SDA_I (4)

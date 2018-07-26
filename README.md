@@ -14,12 +14,12 @@ This is an example for using MKR WAN 1300 with the ToF sensor VL53L0X and sendin
 | SCL | SCL_I (2) |
 
 ### ![VL53L0X pinout](https://cei-lab.github.io/ece3400/tutorials/sensors/images/Pinout.svg)
-![https://cei-lab.github.io/ece3400/tutorials/sensors/images/Pinout.svg](https://cei-lab.github.io/ece3400/tutorials/sensors/images/Pinout.svg)
+https://cei-lab.github.io/ece3400/tutorials/sensors/images/Pinout.svg
 
 ## Variables
-### appEui      - this is where you paste your APP EUI 
-### appKey      - this is where you paste your APP KEY
-### delay_value - this is on default 30 second, but you can change it to have it send more frequently
+##### appEui      - this is where you paste your APP EUI 
+##### appKey      - this is where you paste your APP KEY
+##### delay_value - this is on default 30 second, but you can change it to have it send more frequently
 
 ---
 

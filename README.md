@@ -3,10 +3,10 @@ This is an example for using MKR WAN 1300 with the ToF sensor VL53L0X and sendin
 
 ## Wiring:
 ### MKR WAN 1300		VL53L0X
-VCC			VDD   (5)
-GND			GND   (6)
-SDA			SDA_I (4)
-SCL			SCL_I (2)
+- VCC			VDD   (5)
+- GND			GND   (6)
+- SDA			SDA_I (4)
+- SCL			SCL_I (2)
 
 ### ![VL53L0X pinout](https://cei-lab.github.io/ece3400/tutorials/sensors/images/Pinout.svg)
 

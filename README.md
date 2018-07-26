@@ -2,8 +2,8 @@
 This is an example for using MKR WAN 1300 with the ToF sensor VL53L0X and sending the values through LoRa to TTN.
 
 ## Links
-### ![MKR WAN 1300](https://store.arduino.cc/mkr-wan-1300)
-### ![VL53L0X](https://www.st.com/en/evaluation-tools/53l0-satel-i1.html)
+### [MKR WAN 1300](https://store.arduino.cc/mkr-wan-1300)
+### [VL53L0X](https://www.st.com/en/evaluation-tools/53l0-satel-i1.html)
 
 ## Wiring
 | MKR WAN 1300 | VL53L0X |
